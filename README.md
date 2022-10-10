@@ -6,4 +6,4 @@
 | 22.09.2022 | [Matrix norms and unitary matrices](./lectures/lecture2/lecture2.ipynb) | Seminar 2 | 
 | 29.09.2022 |  | [Seminar 3](./seminars/seminar3/seminar3.ipynb) <br> [Seminar 4](./seminars/seminar4/seminar4.ipynb) | [HW2](./hw/hw2/hw2.ipynb) <br> (Deadline: October, 11, 23:59 MSK) |
 | 06.10.2022 | [Matrix rank and low-rank approximation. SVD.](./lectures/lecture3/lecture3.ipynb) <br> [Linear systems](./lectures/lecture4/lecture4.ipynb) | |  | 
-| 13. 10.2022 | Matrix multiplication and memory hierarchy. QR decomposition and how to compute it. | | [HW3](./hw/hw3/hw3.ipynb) <br> (Deadline: October, 25, 23:59 MSK) |
+| 13. 10.2022 | [Matrix multiplication and memory hierarchy. QR decomposition and how to compute it.](./lectures/lecture5/lecture5.ipynb) | | [HW3](./hw/hw3/hw3.ipynb) <br> (Deadline: October, 25, 23:59 MSK) |
