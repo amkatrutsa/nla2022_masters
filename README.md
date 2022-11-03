@@ -9,3 +9,4 @@
 | 13. 10.2022 | [Matrix multiplication and memory hierarchy.](./lectures/lecture5/lecture5.ipynb) | [Seminar 5](./seminars/seminar5/seminar5.ipynb) | [HW3](./hw/hw3/hw3.ipynb) <br> (Deadline: October, 25, 23:59 MSK) |
 | 20.10.2022 |  | [Seminar 6](./seminars/seminar6/seminar6.ipynb) <br> Seminar 7 | | |
 | 27.10.2022 | [QR decomposition and how to compute it. Eigenvalues and eigenvectors. Schur decomposition.](./lectures/lecture6/lecture6.ipynb) <br> [QR algorithm. SVD and how we compute it.](./lectures/lecture7/lecture7.ipynb) | | | |
+| 03.11.2022 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture8/lecture8.ipynb) | | | |
