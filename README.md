@@ -11,4 +11,5 @@
 | 27.10.2022 | [QR decomposition and how to compute it. Eigenvalues and eigenvectors. Schur decomposition.](./lectures/lecture6/lecture6.ipynb) <br> [QR algorithm. SVD and how we compute it.](./lectures/lecture7/lecture7.ipynb) | | | |
 | 03.11.2022 |  | [Seminars 8 and 9](./seminars/seminar8/seminar8.ipynb) | | |
 | 10.11.2022 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture8/lecture8.ipynb) <br> [Intro to iterative methods](./lectures/lecture9/lecture9.ipynb) | | |
+| 17.11.2022 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | | | 
  
