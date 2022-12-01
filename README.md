@@ -13,4 +13,5 @@
 | 10.11.2022 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture8/lecture8.ipynb) <br> [Intro to iterative methods](./lectures/lecture9/lecture9.ipynb) | | |
 | 17.11.2022 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | Seminar 9 | | 
 | 24.11.2022 | | Seminar 10 <br> Seminar 11 | [HW4](./hw/hw4/hw4.ipynb) <br> (Deadline: December, 4, 23:59 MSK) |
+| 01.12.2022 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | Seminar 12 | 
  
