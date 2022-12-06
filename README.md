@@ -11,8 +11,8 @@
 | 27.10.2022 | [QR decomposition and how to compute it. Eigenvalues and eigenvectors. Schur decomposition.](./lectures/lecture6/lecture6.ipynb) <br> [QR algorithm. SVD and how we compute it.](./lectures/lecture7/lecture7.ipynb) | | | |
 | 03.11.2022 |  | [Seminars 8 and 9](./seminars/seminar8/seminar8.ipynb) | | |
 | 10.11.2022 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture8/lecture8.ipynb) <br> [Intro to iterative methods](./lectures/lecture9/lecture9.ipynb) | | |
-| 17.11.2022 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | Seminar 9 | | 
-| 24.11.2022 | | Seminar 10 <br> Seminar 11 | [HW4](./hw/hw4/hw4.ipynb) <br> (Deadline: December, 4, 23:59 MSK) |
-| 01.12.2022 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | Seminar 12 | 
+| 17.11.2022 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | Seminar 10 | | 
+| 24.11.2022 | | Seminar 11 <br> Seminar 12 | [HW4](./hw/hw4/hw4.ipynb) <br> (Deadline: December, 4, 23:59 MSK) |
+| 01.12.2022 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | Seminar 13 | 
 | 08.12.2022 | [Iterative methods for partial eigenvalue problem](./lectures/lecture12/lecture12.ipynb) <br> [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture13/lecture13.ipynb)
  
