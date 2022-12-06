@@ -14,5 +14,5 @@
 | 17.11.2022 | [Great iterative methods](./lectures/lecture10/lecture10.ipynb) | Seminar 10 | | 
 | 24.11.2022 | | Seminar 11 <br> Seminar 12 | [HW4](./hw/hw4/hw4.ipynb) <br> (Deadline: December, 4, 23:59 MSK) |
 | 01.12.2022 | [Iterative methods and preconditioners](./lectures/lecture11/lecture11.ipynb) | Seminar 13 | 
-| 08.12.2022 | [Iterative methods for partial eigenvalue problem](./lectures/lecture12/lecture12.ipynb) <br> [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture13/lecture13.ipynb)
+| 08.12.2022 | [Iterative methods for partial eigenvalue problem](./lectures/lecture12/lecture12.ipynb) <br> [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture13/lecture13.ipynb) | | [HW5](./hw/hw5/hw5.ipynb) <br> (Deadline: December, 15, 23:59 MSK)
  
